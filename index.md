@@ -15,7 +15,7 @@
 	<main>
 		<div class="vertical-container">
 			<img class="pp" src="./img/profile_picture.png">
-			<h1>Huntears</h1>
+			<h1>Anglaisjulie</h1>
 			<nav>
 				<ul>
 					<li><a href="https://github.com/Anglaisjulie">GitHub</a></li>
